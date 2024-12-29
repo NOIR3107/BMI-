@@ -1,0 +1,9 @@
+<resources>
+    <!-- BMI Category Colors -->
+    <color name="underweight">#0091D5</color>
+    <color name="normal_weight">#28A745</color>
+    <color name="overweight">#FFBF00</color>
+    <color name="obesity">#DC3545</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
